@@ -10,6 +10,13 @@ OpenStreetMap is a powerful map platform using community driven data. Understand
 
 * OSM export - https://www.openstreetmap.org/export
 
+## Themes
+
+* Open spaces Analysis - open space available within a certain distance, open space per capita.
+* Shade analysis: Area under shade
+* Roof area and reflectance: roof colour, slope, modis_reflectance
+
+
 ## References
 
 *
